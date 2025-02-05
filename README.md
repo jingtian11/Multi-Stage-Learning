@@ -24,4 +24,5 @@ bash Data_progress.sh
 
 To validate the model metrics, you can run the following command:
 ```bash
-bash eval.sh```
+bash eval.sh
+```
