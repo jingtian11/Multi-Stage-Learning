@@ -8,8 +8,8 @@ This work addresses the challenge of multi-stage fine-tuning of large language m
 
 The figure illustrates the overview of our approach, which consists of three main modules.
 Particularly, our method first employs a preference based learning bias to resolve potential knowledge conflicts between the training data and the knowledge store in the current model.
-Then, it uses  self distillation strategies to augment training data, with 
-a dynamic sample selection mechanism to filter noise and improve learning. 
+Then, it uses  self distillation strategies to augment training data, with a dynamic sample selection mechanism to filter noise and improve learning. 
+
 ![19951728136653_ pic](https://github.com/user-attachments/assets/b03a14e5-e16c-424b-b591-47c864115489)
 
 ## Data Availability
